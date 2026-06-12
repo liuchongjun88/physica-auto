@@ -1,0 +1,12 @@
+# PHYSICA Automotive Systems - robots.txt
+# https://www.physica-auto.com
+
+User-agent: *
+Allow: /
+Disallow: /tmp/
+
+# Sitemap
+Sitemap: https://www.physica-auto.com/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
