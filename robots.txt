@@ -1,12 +1,11 @@
 # PHYSICA Automotive Systems - robots.txt
-# https://www.physica-auto.com
+# https://physica-auto.vercel.app
 
 User-agent: *
 Allow: /
-Disallow: /tmp/
 
 # Sitemap
-Sitemap: https://www.physica-auto.com/sitemap.xml
+Sitemap: https://physica-auto.vercel.app/sitemap.xml
 
 # Crawl-delay for polite bots
 Crawl-delay: 1
