@@ -4,62 +4,62 @@
 
   <!-- Homepage (5 language variants) -->
   <url>
-    <loc>https://www.physica-auto.com/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.physica-auto.com/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://www.physica-auto.com/?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.physica-auto.com/?lang=de"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://www.physica-auto.com/?lang=ja"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.physica-auto.com/?lang=es"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.physica-auto.com/"/>
-    <lastmod>2026-06-12</lastmod>
+    <loc>https://physica-auto.vercel.app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://physica-auto.vercel.app/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://physica-auto.vercel.app/?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://physica-auto.vercel.app/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://physica-auto.vercel.app/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://physica-auto.vercel.app/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://physica-auto.vercel.app/"/>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- Insights Article Pages (High AEO Value) -->
+  <url>
+    <loc>https://physica-auto.vercel.app/gb-4094-2026.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://physica-auto.vercel.app/euro-ncap-2026.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://physica-auto.vercel.app/physical-vs-touchscreen.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Factory Audit -->
   <url>
-    <loc>https://www.physica-auto.com/factory-audit.html</loc>
-    <lastmod>2026-06-12</lastmod>
+    <loc>https://physica-auto.vercel.app/factory-audit.html</loc>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <!-- Privacy Policy -->
   <url>
-    <loc>https://www.physica-auto.com/privacy.html</loc>
-    <lastmod>2026-06-12</lastmod>
+    <loc>https://physica-auto.vercel.app/privacy.html</loc>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- Terms of Service -->
   <url>
-    <loc>https://www.physica-auto.com/terms.html</loc>
-    <lastmod>2026-06-12</lastmod>
+    <loc>https://physica-auto.vercel.app/terms.html</loc>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
-  </url>
-
-  <!-- Insights Article Pages (High AEO Value) -->
-  <url>
-    <loc>https://www.physica-auto.com/gb-4094-2026.html</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.physica-auto.com/euro-ncap-2026.html</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.physica-auto.com/physical-vs-touchscreen.html</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 
 </urlset>
